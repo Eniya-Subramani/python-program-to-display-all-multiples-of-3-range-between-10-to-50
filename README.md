@@ -1,1 +1,20 @@
-# python-program-to-display-all-multiples-of-3-range-between-10-to-50
+
+for i in range(10,50):
+    if(i%3==0):
+        print(i)
+
+Output:
+12
+15
+18
+21
+24
+27
+30
+33
+36
+39
+42
+45
+48
+
